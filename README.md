@@ -1,4 +1,4 @@
-# DS, ML and AI Competitions & Hackathon Solutions
+# DS, ML, AI Competitions & Hackathon Solutions
 > Zindi: https://zindi.africa/competitions
 
 > DataHack by Analytics Vidhya: https://datahack.analyticsvidhya.com/contest/all/#active
