@@ -7,6 +7,8 @@
 
 > Kaggle: https://www.kaggle.com/
 
+> Dockship: https://dockship.io/challenges?subtype=0
+
 > Unearthed (Sustainability challenges): https://unearthed.solutions/u/
 
 > HackerEarth: https://www.hackerearth.com/challenges/hackathon/
